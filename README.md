@@ -33,9 +33,9 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oliveiraferreiram301-max&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=pt-br&hide_border=true&order=1" height="100" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=oliveiraferreiram301-max&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oliveiraferreiram301-max&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=oliveiraferreiram301-max&locale=pt-br&mode=daily&theme=nord&hide_border=true&border_radius=15&order=3" height="100" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=oliveiraferreiram301-max&locale=pt-br&mode=daily&theme=nord&hide_border=true&border_radius=15&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
